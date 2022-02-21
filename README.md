@@ -1,17 +1,18 @@
-<div align="center">
-Sup!!! I'm @esttorhe in almost every social media network.
-<br/>
-Currently I am an Engineering manager @ <img alt="Spotify logo" width="16px" src="https://raw.githubusercontent.com/esttorhe/esttorhe/main/static/images/logos/spotify.svg" /> Spotify, based in Berlin, Germany.
-Originally from Costa Rica
-<br/>
+My name is Esteban Torres & currently I am an Engineering manager @ <img alt="Spotify logo" width="16px" src="https://raw.githubusercontent.com/esttorhe/esttorhe/main/static/images/logos/spotify.svg" /> Spotify. <br/>
+Originally from Costa Rica, currently based in Berlin, Germany.
 <br/>
 
+<div align="center">
 <a href="https://twitter.com/esttorhe">
   <img alt="Esteban's Twitter" width="22px" src="https://raw.githubusercontent.com/esttorhe/esttorhe/main/static/images/logos/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/estebantorres">
   <img alt="Esteban Torres' LinkedIn" width="22px" src="https://raw.githubusercontent.com/esttorhe/esttorhe/main/static/images/logos/linkedin.svg" />
 </a>
+<a href="https://estebantorr.es">
+  <img alt="Esteban Torres' Website" width="22px" src="https://raw.githubusercontent.com/esttorhe/esttorhe/main/static/images/icons/website.svg" />
+</a>
+</div>
 
 ## Useless Github Stats
 
