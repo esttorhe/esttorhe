@@ -1,5 +1,5 @@
 <div>
-  <img src="https://raw.githubusercontent.com/esttorhe/esttorhe/static/images/css.svg" width="100%" alt="Header over banner"/>
+  <img src="https://raw.githubusercontent.com/esttorhe/esttorhe/main/static/images/css.svg" width="100%" alt="Header over banner"/>
 </div>  
 <br/>
 
