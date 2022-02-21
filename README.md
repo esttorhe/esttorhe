@@ -1,5 +1,5 @@
 My name is Esteban Torres & currently I am an Engineering manager @ <img alt="Spotify logo" width="16px" src="https://raw.githubusercontent.com/esttorhe/esttorhe/main/static/images/logos/spotify.svg" /> Spotify. <br/>
-Originally from Costa Rica, currently based in Berlin, Germany.
+Originally from Costa Rica 🇨🇷, currently based in Berlin, Germany 🇩🇪.
 <br/>
 
 <div align="center">
