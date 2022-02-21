@@ -1,4 +1,4 @@
-<img alt="Backstage banner" src="https://raw.githubusercontent.com/esttorhe/main/static/images/banner.png" /> 
+<img alt="Backstage banner" width="240px" src="https://raw.githubusercontent.com/esttorhe/esttorhe/main/static/images/banner.png" /> 
 
 My name is Esteban Torres & currently I am an Engineering manager @ <img alt="Spotify logo" width="16px" src="https://raw.githubusercontent.com/esttorhe/esttorhe/main/static/images/logos/spotify.svg" /> Spotify working on <a href="https://backstage.spotify.com"><img alt="Backstage's Logo" width="16px" src="https://raw.githubusercontent.com/esttorhe/esttorhe/main/static/images/logos/backstage.svg"/></a>.<br/>
 Originally from Costa Rica 🇨🇷, currently based in Berlin, Germany 🇩🇪.
