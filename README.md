@@ -23,6 +23,7 @@ Originally from Costa Rica 🇨🇷, currently based in Berlin, Germany 🇩🇪
 ### 🔖 Latest Blog Posts
 <!-- Blogpost starts -->
 * [Safari Bar Selection Jittering](https://estebantorr.es/blog/engineering/2021/02/2021-02-09-safari-bar-selection-jittering/) - Tue, 09 Feb 2021 15:09:04 
+* [](https://estebantorr.es/cv/) - Sat, 16 May 2020 14:07:00 
 * [Career change](https://estebantorr.es/blog/management/2020/05/2020-05-15-career-change/) - Fri, 15 May 2020 20:00:00 
 * [About Me](https://estebantorr.es/about/) - Thu, 22 Feb 2018 22:46:10 
 * [Xcode notifications on your 📱](https://estebantorr.es/blog/engineering/2018/02/2018-02-13-xcode-notifications-on-your-phone/) - Tue, 13 Feb 2018 18:18:04 
