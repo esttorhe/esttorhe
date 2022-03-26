@@ -24,7 +24,7 @@ Originally from Costa Rica 🇨🇷, currently based in Berlin, Germany 🇩🇪
 
 ## 🔖 Latest Blog Posts
 <!-- Blogpost starts -->
-* [Blog](https://estebantorr.es/blog/) - Tue, 09 Feb 2021 15:09:04 
+* [Blog](https://estebantorr.es/blog/) - Fri, 25 Mar 2022 11:52:24 
 * [](https://estebantorr.es/cv/) - Sat, 16 May 2020 14:07:00 
 * [About Me](https://estebantorr.es/about/) - Thu, 22 Feb 2018 22:46:10 
 * [Talks](https://estebantorr.es/talks/) - Fri, 15 Jul 2016 09:10:02 
