@@ -18,6 +18,8 @@ Originally from Costa Rica 🇨🇷, currently based in Berlin, Germany 🇩🇪
 <a href="https://estebantorr.es">
   <img alt="Esteban Torres' Website" width="22px" src="https://raw.githubusercontent.com/esttorhe/esttorhe/main/static/images/icons/website.svg" />
 </a>
+<!--  TODO: Add image asset and link it here  -->
+  <a rel="me" href="https://mastodon.social/@esttorhe">Mastodon</a>
 </div>
 
 ---
