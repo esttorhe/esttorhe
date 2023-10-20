@@ -3,7 +3,7 @@
   <img alt="Backstage banner" width="70%" height="20%" src="https://raw.githubusercontent.com/esttorhe/esttorhe/main/static/images/banner.png" /> 
 </div>
 -->            
-<h3>My name is Esteban Torres and currently I am an Engineering manager @ <img alt="Spotify logo" width="16px" src="https://raw.githubusercontent.com/esttorhe/esttorhe/main/static/images/logos/spotify.svg" /> Spotify working on <a href="https://backstage.spotify.com"><img alt="Backstage's Logo" width="16px" src="https://raw.githubusercontent.com/esttorhe/esttorhe/main/static/images/logos/backstage.svg"/></a>.<br/>
+<h3>My name is Esteban Torres and currently I am an Engineering manager @ ZenJob working on a Platform/DevOps team.<br/>
 Originally from Costa Rica 🇨🇷, currently based in Berlin, Germany 🇩🇪.
 </h3>
 <br/>
