@@ -17,7 +17,7 @@ Started out writing <code>iOS</code> apps, switched to management in 2020 and ne
 
 <div align="center">
 <a href="https://estebantorr.es">
-  <img alt="Esteban Torres' Website" width="22px" src="https://raw.githubusercontent.com/esttorhe/esttorhe/main/static/images/icons/website.svg" />
+  <img alt="Esteban Torres' Website" width="22px" src="https://raw.githubusercontent.com/esttorhe/esttorhe/main/static/images/icons/favicon.svg" />
 </a>
 &nbsp;
 <a rel="me" href="https://mastodon.social/@esttorhe">
