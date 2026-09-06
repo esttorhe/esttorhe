@@ -44,11 +44,11 @@ Started out writing <code>iOS</code> apps, switched to management in 2020 and ne
 Posts and TILs from [estebantorr.es](https://estebantorr.es), refreshed daily.
 
 <!-- Blogpost starts -->
+* [Joining the Webmentions bandwagon](https://estebantorr.es/2026/09/joining-the-webmentions-bandwagon/) - 04 Sep 2026
 * [Reduce not time but complexity](https://estebantorr.es/til/reduce-not-time-but-complexity/) - 22 Aug 2026
 * [Zellij 'multiplexer'](https://estebantorr.es/til/zellij-multiplexer/) - 20 Aug 2026
 * [Neuromancer: THE MOVIE](https://estebantorr.es/til/neuromancer-the-movie/) - 31 Jul 2026
 * [Obsidian Notebook Navigator Plugin](https://estebantorr.es/til/obsidian-notebook-navigator-plugin/) - 30 Jul 2026
-* [superfile CLI](https://estebantorr.es/til/superfile-cli/) - 30 Jul 2026
 <!-- Blogpost ends -->
 
 ---
